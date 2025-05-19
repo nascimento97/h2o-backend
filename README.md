@@ -67,8 +67,8 @@ project-root/
 1. **Clone o repositório**
 
    ```bash
-   git clone https://seu-repositorio/h2o.git
-   cd h2o
+   git clone https://github.com/nascimento97/h2o-backend.git
+   cd h2o-backend
    ```
 
 2. **Crie e ative um ambiente virtual**
